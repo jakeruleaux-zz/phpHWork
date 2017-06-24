@@ -1,0 +1,13 @@
+body {
+  background-image: url("band.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: pink;
+}
