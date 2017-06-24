@@ -10,4 +10,5 @@ h1 {
 
 p {
   color: pink;
+  text-shadow: 1px 1px black;
 }
